@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
 
-<h1 align="center">Crazy Coder & Great Communicator & Project Manager
+<h1 align="center">Crazy Coder & Great Communicator 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
  
 
@@ -47,7 +47,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Professional Web Development
 
 <p align="center">
   &emsp;
@@ -76,7 +76,7 @@
   </a>
 </p>
 
-### 👉 Frontend Development
+### 👉 UI / UX Designer
 <p align="center"> 
   &emsp; 
   <a href="https://reactjs.org/docs/getting-started.html" target="_blank"> 
@@ -144,7 +144,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### 👉 Competitive Programming & Problem Solving
+ ### 👉 Hosting & Operating System
  
 <p align="center">
   &emsp;
@@ -161,7 +161,7 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
- ### 👉 Operating Systems
+ ### 👉 Out of Box & Creative & Passionate
  
 <p align="center">
   &emsp;
