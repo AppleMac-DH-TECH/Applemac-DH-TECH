@@ -47,7 +47,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Professional Web Development
+### 👉 Professional Web Development & Software Development
 
 <p align="center">
   &emsp;
@@ -76,7 +76,7 @@
   </a>
 </p>
 
-### 👉 UI / UX Designer
+### 👉 UI / UX Designer & Front-end Developer
 <p align="center"> 
   &emsp; 
   <a href="https://reactjs.org/docs/getting-started.html" target="_blank"> 
