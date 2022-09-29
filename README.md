@@ -13,7 +13,7 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=GJTECH-SPEC&label=Profile%20views&color=0e75b6&style=plastic" alt="Crazy Guy" /> 
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/GJTECH-SPEC?label=Followers&style=social">    
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/AppleMac-DH-TECH?label=Followers&style=social">    
   <img src="https://img.shields.io/github/stars/GJTECH-SPEC?label=Stars" alt="Total Stars">
 </p>
 
@@ -22,7 +22,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with Me
 <p align="center">
 	<a href="santiagomac841@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/HP-Monster-0315"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/AppleMac-DH-TECH"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="#"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="#"><img src="https://img.shields.io/badge/telegram-%230A66C2.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
 	<a href="#"><img src="https://img.shields.io/badge/discord-%231877F2.svg?style=plastic&logo=discord&logoColor=white" alt="Discord"/></a>
@@ -185,10 +185,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GJTECH-SPEC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HP-Monster-0315&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="GJTECH-SPEC's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AppleMac-DH-TECH&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HP-Monster-0315&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="GJTECH-SPEC" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AppleMac-DH-TECH&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="GJTECH-SPEC" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -198,17 +198,17 @@
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <br/>
-   <a href="https://github.com/HP-Monster-0315"><img alt="Crazy guy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GJTECH-SPEC&custom_title=GJTECH-SPEC's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/AppleMac-DH-TECH"><img alt="Crazy guy's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GJTECH-SPEC&custom_title=GJTECH-SPEC's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=HP-Monster-0315&layout=compact&theme=algolia" alt="Crazy Guy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AppleMac-DH-TECH&layout=compact&theme=algolia" alt="Crazy Guy" /></a> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Credits: [HP-Monster-0315](https://github.com/HP-Monster-0315)
+Credits: [AppleMac-DH-TECH](https://github.com/AppleMac-DH-TECH)
 
 Last Edited on: 29th Feb 2020
